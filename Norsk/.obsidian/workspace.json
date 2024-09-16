@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "11c3898e205f7d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e47503547b2d34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c4d065fc24aef89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf64a7cacbfc6acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e747003d812008f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2661bfa11032cb2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "effd753a13e0074f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "862f078f930d6188",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5
+  },
+  "right": {
+    "id": "d0865978bdae122b",
+    "type": "split",
+    "children": [
+      {
+        "id": "afd7b85d9e23591f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d247fe81b026f929",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb088e31304cf102",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "143e3390be5393a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6eb9ea6761b3a195",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Åpne hurtigåpner": false,
+      "graph:Åpne grafvisning": false,
+      "daily-notes:Åpne dagens notat": false,
+      "templates:Sett inn mal": false,
+      "command-palette:Åpne kommandovelger": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "2661bfa11032cb2a",
+  "lastOpenFiles": [
+    "2024-09-16.md",
+    "3 - Tags/alltid.md",
+    "2 - Source Material/Beskrivelse av en hus.md",
+    "3 - Tags/interiør.md",
+    "3 - Tags/stemning.md",
+    "3 - Tags/detalj.md",
+    "3 - Tags/detaljer.md",
+    "3 - Tags/innblikk.md",
+    "3 - Tags/hjemmekoselig.md",
+    "3 - Tags/føle.md",
+    "3 - Tags/Selv om.md",
+    "3 - Tags/fyll.md",
+    "3 - Tags/fylles.md",
+    "3 - Tags/sollys.md",
+    "3 - Tags/våkne.md",
+    "3 - Tags/våk.md",
+    "3 - Tags/mye.md",
+    "3 - Tags/som.md",
+    "3 - Tags/slipp.md",
+    "3 - Tags/slip.md",
+    "3 - Tags/bokhylle.md",
+    "3 - Tags/hylle.md",
+    "2 - Source Material/grønnsaksbutiken samtale og grunnleggende setninger.md",
+    "3 - Tags/skrivebord.md",
+    "3 - Tags/seng.md",
+    "3 - Tags/enkelt.md",
+    "Untitled.canvas",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes"
+  ]
+}
