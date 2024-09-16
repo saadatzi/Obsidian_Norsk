@@ -1,0 +1,2 @@
+regel: rule
+regler: rules
